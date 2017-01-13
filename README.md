@@ -5,21 +5,16 @@ The code is created based on the following paper:
 
 [Project Page](https://sites.google.com/site/hierarchicalimagesegmentation/)
 
-# Example:
-
-Run compiler.m  to compiler the Mex-file 
-
-Run Demo.m for single color image 
-
-Three types of output:
-
-   Type I : Superpixel-like segmentation
+# Example:<br>
++ Step1 <br>
+Run compiler.m  to compiler the Mex-file <br>
++ Step2 <br>
+Run Demo.m for single color image <br>
+Three types of output:<br>
+Type I : Superpixel-like segmentation<br>
+Type II : Hierarchical image segmentations<br>
+Type III : Video of all process result of iterative contraction-and-merging process<br>
   
-   Type II : Hierarchical image segmentations
-  
-   Type III : Video of all process result of iterative contraction-and-merging process
-  
-# Contact
-
-Jia-Hao Syu 
+# Contact <br>
+Jia-Hao Syu <br>
 <jiahaushiu4@gmail.com>
