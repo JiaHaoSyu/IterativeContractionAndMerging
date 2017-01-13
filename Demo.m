@@ -53,7 +53,7 @@ Para.gamma = 3; % weighting of border
 % 'Hier' : Hierarchcial image segmentation
 % 'Video' : Whole process result to Video, for 321*481 image, requiring 3GB Memory for saving all process result
 %===== You can change the type =====
-Type = 'Video'; % 'Segs','Hier','Video'
+Type = 'Hier'; % 'Segs','Hier','Video'
 
 % Type 1 : Parameters for 'Segs'
 NumSegment = 200; % Number of Segments (choosing by users)
