@@ -5,15 +5,11 @@ The code is created based on the following paper:
 
 [Project Page](https://sites.google.com/site/hierarchicalimagesegmentation/)
 
-Usage:
+# Example:
 
-Step1 
+Run compiler.m  to compiler the Mex-file 
 
-   Run compiler.m  to compiler the Mex-file 
-
-Step2
-
-   Run Demo.m for single color image 
+Run Demo.m for single color image 
 
 Three types of output:
 
@@ -23,5 +19,7 @@ Three types of output:
   
    Type III : Video of all process result of iterative contraction-and-merging process
   
-  
-Feedbacks and comments are welcome! Feel free to contact us via <jiahaushiu4@gmail.com>
+# Contact
+
+Jia-Hao Syu 
+<jiahaushiu4@gmail.com>
